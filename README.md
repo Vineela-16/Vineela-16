@@ -19,6 +19,7 @@ From algorithms to apps — solving problems one commit at a time.
 
 ### 🌐 Connect with me
 [LinkedIn](https://www.linkedin.com/in/vineela-sanaka-61a5812a4/)
+[Gmail](vinny16.snk@gmail.com)
 
 ---
 
