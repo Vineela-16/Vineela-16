@@ -1,4 +1,31 @@
-## Hi there 👋
+# Hi, I'm Vineela 👋
+
+**Student | Tech Enthusiast**
+
+---
+
+### 🧑‍💻 Languages & Tools
+- HTML, CSS, JavaScript
+- C, Python
+- Tableau, MS Excel
+- React, Node.js, Express
+
+---
+
+### 🚀 About Me
+From algorithms to apps — solving problems one commit at a time.
+
+---
+
+### 🌐 Connect with me
+[LinkedIn](https://www.linkedin.com/in/vineela-sanaka-61a5812a4/)
+
+---
+
+### 🎯 Hobbies
+- Space organization
+- Photography
+- Cooking
 
 <!--
 **Vineela-16/Vineela-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
